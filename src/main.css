@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+*{
+     font-style: 'Monaspace Neon';
+}
+.nav-bar {
+background-color: #010409;
+color: white;
+height: 48px;
+}
+.nav-bar_two{
+
+background-color: #010409;
+color: white;
+height: 48px;
+align-items: center;}
+
+body{
+background-color: #0d1117
+
+
+}
+.button{
+    background-color: #262c36;
+}
